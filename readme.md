@@ -21,8 +21,8 @@ En este vídeo aprenderás:
 ## PROGRAMA NOTIFICACIONES con BroadcastReceiver y AlarmManager
 
 <p align="center">
-<a href="https://youtu.be/Br7CLi54RSY">
-<img src="https://i.imgur.com/wQb1ruP.jpg" style="height: 75%; width:75%;"/></center> </a></p>
+<a href="https://youtu.be/TEoe4JTQOEA">
+<img src="https://i.imgur.com/oEXJ1n1.jpg" style="height: 75%; width:75%;"/></center> </a></p>
 
 Todo el código en la rama [**feature/scheduleNotification**](https://github.com/ArisGuimera/AndroidNotificationsExample/tree/feature/scheduleNotification)
 
